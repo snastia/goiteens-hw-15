@@ -939,4 +939,59 @@ nav {
 .section-footer {
   background-color: #2F303A;
   margin: none;
+}
+
+.footer-text {
+  color: #FFFFFF;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  margin-bottom: 20px;
+  margin-top: 66px;
+  display: -webkit-inline-box;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+}
+
+.footer-button {
+  letter-spacing: 0.06em;
+  color: var(--thirdly-text-color);
+  cursor: pointer;
+  display: -webkit-inline-box;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  padding-top: 18px;
+  padding-left: 32px;
+  padding-right: 65;
+  padding-bottom: 17px;
+  border-radius: 4px;
+  border: none;
+  background-color: var(--accent-color);
+  margin-bottom: 40px;
+  margin-top: 30px;
+  -webkit-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14), 0px 2px 1px rgba(0, 0, 0, 0.2);
+          box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14), 0px 2px 1px rgba(0, 0, 0, 0.2);
+  height: 50px;
+  width: 200px;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.send-div {
+  margin-top: 0px;
+  margin-left: 70px;
+}
+
+.footer-input {
+  border: rgba(255, 255, 255, 0.3);
+  -webkit-box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+          box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+}
+
+.send-icon {
+  margin-left: 13px;
+  color: var(--thirdly-text-color);
 }/*# sourceMappingURL=main.css.map */
