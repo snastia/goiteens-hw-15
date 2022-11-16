@@ -1,4 +1,12 @@
 @charset "UTF-8";
+:root {
+  --accent-color: #2196F3;
+  --primary-text-color: #212121;
+  --secondary-text-color: #757575;
+  --thirdly-text-color: #FFFFFF;
+  --background-color: #2F303A;
+}
+
 /* #2196F3 -accent-color
 #212121 -primary-text-color
 #757575 -secondary-text-color
