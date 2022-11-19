@@ -4,6 +4,7 @@
 @import "./components/header";
 @import "./components/hero";
 @import "./components/modal";
+@import "./components/fetures";
 
 /* #2196F3 -accent-color
 #212121 -primary-text-color
@@ -23,13 +24,7 @@
  /* секція герой */
 
 /* секція особливості */
-.fetures{
-    display: flex;
-    justify-content: space-between;
-}
-.fetures-items{
-width: 270px;
-}
+
 /* футер */
 .section.footer{
     padding-top: 60px;

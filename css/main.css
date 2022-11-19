@@ -387,17 +387,6 @@ nav {
   margin-bottom: 10px;
 }
 
-/* #2196F3 -accent-color
-#212121 -primary-text-color
-#757575 -secondary-text-color
-#FFFFFF -thirdly-text-color */
-/* загальні стилі */
-/* головна сторінка */
-/* хедер */
-/* форма модального вікна */
-/* Модальне вікно і бекдроп */
-/* секція герой */
-/* секція особливості */
 .fetures {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -411,6 +400,17 @@ nav {
   width: 270px;
 }
 
+/* #2196F3 -accent-color
+#212121 -primary-text-color
+#757575 -secondary-text-color
+#FFFFFF -thirdly-text-color */
+/* загальні стилі */
+/* головна сторінка */
+/* хедер */
+/* форма модального вікна */
+/* Модальне вікно і бекдроп */
+/* секція герой */
+/* секція особливості */
 /* футер */
 .section.footer {
   padding-top: 60px;
