@@ -287,13 +287,13 @@ margin-left: auto;
     transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.examples-link .link:hover .overlay,
-.examples-link .link:focus .overlay{
+.examples-item .examples-link:hover .overlay,
+.examples-item .examples-link:focus .overlay{
     transform: translateY(0);
 }
 
-.examples-link .link:hover .link-text,
-.examples-link .link:focus .link-text{
+.examples-item .examples-link:hover .link-text,
+.examples-item .examples-link:focus .link-text{
     box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.12),
      0px 4px 4px rgba(0, 0, 0, 0.06),
       1px 4px 6px rgba(0, 0, 0, 0.16);
